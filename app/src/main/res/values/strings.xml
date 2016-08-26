@@ -1,13 +1,15 @@
 <resources>
-    <string name="app_name">Navigation View Demo</string>
+    <string name="app_name">Material Test</string>
 
 
     <string name="action_settings">Settings</string>
-    <string name="navigation_item_1">Item 1</string>
-    <string name="navigation_item_2">Item 2</string>
-    <string name="navigation_item_3">Item 3</string>
-    <string name="navigation_item_4">Item 4</string>
-    <string name="navigation_item_5">Item 5</string>
-    <string name="navigation_item_6">Item 5</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="skills">Skills</string>
+    <string name="projects">Projects</string>
+    <string name="work">Work</string>
+    <string name="social">Social</string>
+    <string name="title_activity_sub">SubActivity</string>
+
 
 </resources>
