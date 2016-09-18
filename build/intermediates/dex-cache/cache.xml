@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jar="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="288913b440a3c61c30aa171095453a605432277a">
-        <dex dex="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/pre-dexed/debug/classes-2312ea940c15ddb9af3007662498bcb38ca8d08e.jar" />
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/pre-dexed/debug/classes-aab429307a19fede0383ead79c04c517b4360650.jar" />
     </item>
     <item
         jar="/Users/scottfoltz/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
@@ -14,6 +14,20 @@
         revision="23.0.1"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
         <dex dex="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/pre-dexed/debug/library-2.4.0-e87d299f949180d35b5ca5295bf6ab40f2723504.jar" />
+    </item>
+    <item
+        jar="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed3013b4a65d171ea8f8752a4194e0338c303144">
+        <dex dex="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/pre-dexed/debug/classes-13c57fa02649d04fa64de7512cf6eb643dc0b05e.jar" />
+    </item>
+    <item
+        jar="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/scottfoltz/Desktop/navigation-view-android/app/build/intermediates/pre-dexed/debug/classes-2312ea940c15ddb9af3007662498bcb38ca8d08e.jar" />
     </item>
 
 </items>
